@@ -18,5 +18,5 @@ int main() {
   m = (y2 - y1)/(x2 - x1);
 
   //display slope results
-  cout << "The slope of the line connecting the 2 points is y = " << setprecision(5) << m << "x." << endl;
+  cout << "The slope of the line connecting the 2 points is y = " << m << "x." << endl;
 }
